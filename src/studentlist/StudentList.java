@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * This class is a simple example of creating arrays of objects
  *
- * @author Paul Bonenfant
+ * @author Paul Bonenfant..May2020
  */
 public class StudentList {
 
